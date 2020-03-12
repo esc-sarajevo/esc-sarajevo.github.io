@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "STELEKS Embedded Systems Club",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -43,22 +43,24 @@
     "imageResize": true,
     "robotsSwitcher": false,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/esc-picture-128x111.png",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "ESC",
+        "meta_descr": "Contact page for STELEKS Embedded Systems Club",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/takemyjobaway_video_02-press-1000x511.jpg"
       },
       "components": [
         {
